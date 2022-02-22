@@ -1,5 +1,7 @@
 # Trouble Maker: A Truth or Dare generator based on Markov Chain
 
+By Yuqing Liang and Yibo Fu. 
+
 ### Introduction
 
 Trouble Maker is a game-gadget that **generates random prompts for Truth or Dare using Markov Chain**. Truth or Dare is a classic party game, which places the player in a dilemma between answering a personal question or performing a challenging task. However, **running out of prompts is a common pain point of the game**. It is challenging to continuously devise clever prompts yourself and the prompts you can find online are often limited and repetitive in content.
@@ -82,3 +84,15 @@ We collected some interesting results of all five categories.
 - Spin around times and try to summon the rain.
 - Go outside and try to sell a piece of trash to someone in the group of the opposite sex and allow a picture to be taken of you.
 - Sing a praise song about a person in the group. 
+
+
+
+
+
+
+
+
+
+
+
+
