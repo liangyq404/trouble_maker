@@ -27,6 +27,8 @@ We used Markovify, a simple and extensible Markov chain generator. The generator
 Categorized input can be used in specific scenarios. For example, a random cocktail recipe generated from a list of cocktail recipes can be used when the players are in a bar, where they can order “adventurous drinks” made out of the generated recipe; a generated workout instruction that doesn’t make sense in terms of exercising can be a funny challenge to do for the game. 
 After testing with a variety of combined input, we selected 8 input sources and put them into 5 categories. The **Truth** and **Traditional Dare**** are generated from truth and dare prompts we gathered from the internet. The **Dark Drinks** are generated from a cocktail recipe database (we extracted the instructive texts from this database, see our code here) and a list of seasonings and sauce. The **Anti-human Workout** is a combination of workout instructions and table manner instructions, which is the most challenging one among the five. Finally, the **Mime** Challenge is a combination of a list of mime ideas we collected from the internet, some meditation scripts, as well as workout instructions and the table manners - combining these four inputs results in surprisingly dramatic prompts. 
 
+![image](https://user-images.githubusercontent.com/23230981/156915128-0d8a00f9-4a03-427c-ae06-8b2a96edf80d.png)
+
 
 ### “Fine tuning”
 
